@@ -1,7 +1,5 @@
 # DebugXpert---AI-Assistant-Developer
 DebugXpert is an AI-powered developer assistant that helps identify, fix, and explain code bugs in real time. It enhances productivity with features like error resolution, code navigation, optimization scoring, and intelligent suggestions.
-Here’s a **README.md** file for your VS Code extension **DebugXpert**, formatted professionally with installation steps, features, usage instructions, and contribution guidelines.  
-
 ---
 
 # **DebugXpert - AI-Powered Code Assistant for VS Code**  
@@ -100,8 +98,6 @@ Contributions are welcome! Follow these steps to contribute:
 ## **🐞 Issues & Support**
 If you encounter any bugs or issues, please open an issue on [GitHub](https://github.com/your-username/DebugXpert/issues).  
 
-For discussions and feature requests, join our **Discord community** *(Add Discord link if available)*.
-
 ---
 
 ## **📜 License**
@@ -109,11 +105,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-🔹 **Developed by [Your Name]**  
-🔹 **Follow me on [GitHub](https://github.com/your-username) | [Twitter](https://twitter.com/your-handle)**  
+🔹 **Developed by [Suryansh Pratap Singh]**  
+🔹 **Follow me on [GitHub]([https://github.com/your-username](https://github.com/suryansh-pratapsingh)) | [Linkdin]([https://twitter.com/your-handle](https://www.linkedin.com/in/suryansh-pratap-singh/))**  
 
-🚀 **Happy Coding!** 🚀
-
----
-
-Let me know if you want any modifications! 🚀
