@@ -5,7 +5,7 @@ DebugXpert is an AI-powered developer assistant that helps identify, fix, and ex
 # **DebugXpert - AI-Powered Code Assistant for VS Code**  
 🚀 **DebugXpert** is an AI-powered VS Code extension that helps developers improve their code by providing error fixes, evaluation, security vulnerability detection, documentation, and autocompletions.
 
-![DebugXpert Logo](https://your-image-url.com/logo.png) *(Replace with actual logo if available)*
+![DebugXpert Logo](https://your-image-url.com/logo.png) 
 
 ---
 
@@ -57,7 +57,7 @@ code --install-extension your-publisher.DebugXpert
 ---
 
 ## **📸 Screenshots**
-*(Add screenshots showing DebugXpert in action!)*  
+
 ![Screenshot](https://your-image-url.com/screenshot1.png)  
 
 ---
