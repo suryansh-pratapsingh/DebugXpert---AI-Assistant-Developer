@@ -55,9 +55,7 @@ code --install-extension your-publisher.DebugXpert
 
 ---
 
-## **📸 Screenshots**
 
-![Screenshot](https://your-image-url.com/screenshot1.png)  
 
 ---
 
